@@ -1,0 +1,75 @@
+@charset 'UTF-8';
+
+body div {
+	width: 900px;
+	margin: 0 auto;
+	color: #848484;
+}
+
+/* menu */
+
+body p#menu {
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+	font-family: cursive;
+	margin-bottom: 5px;
+}
+
+div img {
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
+/* bmi */
+
+div p#bmi_form {
+	font-weight: bold;
+	font-size: 2.5em;
+	text-align: center;
+}
+
+div p#form {
+	text-align: center;
+}
+
+div.result p {
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+	font-family: cursive;
+}
+
+/* bbs */
+
+p {
+	padding: 5px;
+	margin-left: 50px;
+}
+
+div.content {
+	border-top: 1px dashed #555;
+	margin-top: 10px;
+}
+
+div p#bbs_head {
+	font-weight: bold;
+	font-size: 2.5em;
+	text-align: center;
+}
+
+/* uranai */
+
+div p#uranai {
+	font-weight: bold;
+	font-size: 2.5em;
+	text-align: center;
+}
+
+div p#uranai_form {
+	text-align: center;
+}
+
+div#uranai_result {
+	text-align: center;
+}
